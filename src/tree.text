@@ -1,0 +1,52 @@
+卷 文档 的文件夹 PATH 列表
+卷序列号为 508D-DB5B
+E:.
+│  App.vue
+│  main.js
+│  tree.text
+│  
+├─api
+│      index.js
+│      
+├─assets
+│      el-reset.css
+│      global.css
+│      
+├─components
+│      submenu.vue
+│      
+├─pages
+│  │  Login.vue
+│  │  page404.vue
+│  │  
+│  └─Home
+│      │  index.vue
+│      │  
+│      ├─Attendance
+│      │      index.vue
+│      │      
+│      ├─Mine
+│      │      index.vue
+│      │      
+│      ├─Statistics
+│      │      index.vue
+│      │      
+│      ├─Student
+│      │      Detail.vue
+│      │      Dormitory.vue
+│      │      index.vue
+│      │      Product.vue
+│      │      
+│      ├─Users
+│      │      index.vue
+│      │      
+│      └─Welcome
+│              index.vue
+│              
+├─router
+│      allRoutes.js
+│      index.js
+│      
+└─store
+        index.js
+        
